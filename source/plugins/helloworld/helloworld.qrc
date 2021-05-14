@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/helloworld">
+        <file>images/mode_helloworld.png</file>
+    </qresource>
+</RCC>
